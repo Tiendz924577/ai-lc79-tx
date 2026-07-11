@@ -1256,7 +1256,7 @@ app.get("/api/taixiumd5/lc79", async () => {
 
     if (!lastResult || !currentPrediction) {
         return {
-            id: "GiaThinhzZz Lc79",
+            id: "MIENLATAO",
             phien_truoc: null,
             xuc_xac1: null,
             xuc_xac2: null,
